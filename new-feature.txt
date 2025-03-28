@@ -1,3 +1,6 @@
 created a new file new-feature.txt
 
 Did no modification
+
+I want to test the git diff
+This can't work without initial commit
